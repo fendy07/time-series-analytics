@@ -25,9 +25,9 @@ GRUs: Similar to LSTMs, GRUs are another type of recurrent neural network that c
 The purpose of this repository is to provide a comprehensive comparison between the statistical and deep learning approaches to time series forecasting. By doing so, users can gain insights into the strengths and weaknesses of each method, as well as guidance on when to use one over the other. 
 
 ## Key Features
- - Implementation Examples: The repository includes practical implementations of both statistical and deep learning models, allowing users to easily replicate results and modify parameters to fit their specific datasets.
- - Evaluation Metrics: To assess the performance of the forecasting models, various evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) are detailed. These metrics help in determining how accurately a model performs against its predictions.
- - Visualizations: Visual representations of the data, along with forecasted results, are provided to facilitate an intuitive understanding of model performance. Graphs and plots can illustrate trends, seasonal patterns, and the accuracy of predictions over time.
+ - <b>Implementation Examples</b>: The repository includes practical implementations of both statistical and deep learning models, allowing users to easily replicate results and modify parameters to fit their specific datasets.
+ - <b>Evaluation Metrics</b>: To assess the performance of the forecasting models, various evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE) are detailed. These metrics help in determining how accurately a model performs against its predictions.
+ - <b>Visualizations</b>: Visual representations of the data, along with forecasted results, are provided to facilitate an intuitive understanding of model performance. Graphs and plots can illustrate trends, seasonal patterns, and the accuracy of predictions over time.
 
 ## Conclusion
 
